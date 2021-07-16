@@ -1,37 +1,86 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ogabrielcerqueira/ogabrielcerqueira/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!DOCTYPE html>
+    <html lang="pt-br">
+        <head>
+            <meta charset="uft-8">
+            <meta name="description" content="Currículo Gabriel Cerqueira">
+            <title>Gabriel Cerqueira</title>
+            <link type="text/css" rel="stylesheet" href="estilo.css">
+            <style>
+            h2{color:skyblue}
+            </style>
+        </head>
+        <body>
+            <!-- Aqui fica a foto de topo da página
+            <p><img src="fotos/wide.jpg" alt="Gabriel Cerqueira"> </p>
+            -->
+            
+                <h1 style="color: dodgerblue;">Gabriel Cerqueira</h1>
+                    &nbsp;
+                <h2>Objetivo</h2>
+                <ul><p><strong>Salesforce Trainee&trade; </strong></p></ul> 
+                    &nbsp;
+                <h2>Contato</h2>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ogabrielcerqueira/ogabrielcerqueira/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+                <!--  Segunda foto
+                 <p><img src="fotos/foto01.png" width="300" height="300" alt="Gabriel Cerqueira" align="right"></p> --> 
+                
+                    
+                    <ol>
+                        <p class="endereco">
+                        gabriel.cerqueira2608@gmail.com<br>
+                        +55 13 97408-8128<br>
+                        Santos, SP, Brasil.<br>
+                            <a href="https://www.linkedin.com/in/ogabrielcerqueira" target="_blank">
+                            LinkedIn </a></p>
+                    </ol>
+                    
+                    &nbsp;
+                <h2>Resumo</h2>
+                        
+                    <dt><ul><p>Em meu momento atual, busco mudanças em minha vida profissional e estou disposto a&nbsp;encarar novos desafios, pois creio
+                    que são eles os responsáveis por fazer um indivíduo crescer.</p>   
+                    <p>Seguem abaixo algumas competências:</p></ul></dt>
+                    <ol><dd>
+                        <p><li>Experiência nas trilhas Trailhead; e projetos pessoais;</p></li>
+                        <p><li>Iniciando o desenvolvimento na linguagem Force.com;</p></li>
+                        <p><li>Iniciando a prática nos desenvolvimentos em Apex (Visualforce,
+                        <p><li>Triggers, Classes Apex, Classes de teste, Componentes Lightning),
+                        capaz de realizar desenvolvimentos de baixa complexidade;</p></li>
+                        <p><li>HTML 5, CSS e JavaScript;</li></p>
+                        <p><li>Relacionamento interpessoal e trabalho em equipe;</p></li>
+                        <p><li>Boa escrita/organização e comunicação;</p></li>
+                        <p><li>Conhecimento iniciais em metodologia ágil <i>(Kanban e Scrum)</i>;</p></li>
+                        <p><li>Conhecimento iniciais em integração REST, bem como limites e
+                        modelos de governança.</p></li>
+                    </ol></dd>
+                    &nbsp;
+                <h2>Experiência</h2>
+                    <ul>
+                        <dt><p>Mundoforce<br></dt>
+                        <dd><li>Trainee Salesforce<br></li>
+                        Junho de 2021 - Atual (2 meses)<br>
+                        Santos, São Paulo, Brasil</p></dd>
+                    </ul>    
+                    &nbsp;
+                <h2>Formação acadêmica</h2>
+                    <ul>
+                        <dt><p>Universidade Paulista<br></dt>
+                            <dd><li>Análise e Desenvolvimento de Sistemas · (2021 - 2023)</p></li></dd>
+                        &nbsp;
+                        <dt><p>Universidade Católica de Santos<br></dt>
+                            <dd><li>Bacharelado, Direito · (2014 - 2018)</p></li></dd>
+                    </ul>
+                    &nbsp;
+                <h2>Certifications</h2>
+                    <ul>
+                        <p><li>Introdução à programação orientada a objetos - POO</li></p>
+                        <p><i><li>Business Administration Specialist</li></i></p>
+                        <p><i><li>Salesforce</i> para iniciantes</li></p>
+                        <p><li>HTML 5 Udemy</li></p> 
+                    </ul>    
+                           <!-- <a href="Meus Documentos/MINHAS FOTOS/PHOTO-2021-06-01-11-01-15.jpg">Foto 1</a> -->
+        </body>
+    </html>
+</head>
